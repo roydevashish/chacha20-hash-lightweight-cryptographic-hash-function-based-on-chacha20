@@ -1,0 +1,7 @@
+[project]
+name = "chacha20-hash-lightweight-cryptographic-hash-function-based-on-chacha20"
+version = "0.1.0"
+description = "A lightweight cryptographic hash function inspired by ChaCha20, designed for speed, simplicity, and efficiency in resource-constrained environments. Ideal for embedded systems, research, and educational purposes. Not intended for production use without further cryptanalysis."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
